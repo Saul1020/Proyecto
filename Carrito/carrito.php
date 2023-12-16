@@ -9,6 +9,7 @@ $conn = Conecta();
 
 
 
+
 function obtenerContenidoDelCarrito()
 {
 

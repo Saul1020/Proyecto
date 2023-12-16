@@ -19,10 +19,6 @@ if (isset($_GET['accion']) && $_GET['accion'] == 'llamarFuncion') {
 }
 ?>
 
-
-
-
-
 <!DOCTYPE html>
 <html lang="es">
 
@@ -35,7 +31,6 @@ if (isset($_GET['accion']) && $_GET['accion'] == 'llamarFuncion') {
 <body>
     <!-- Barra de navegacion -->
     <?php include 'plantillas/plantilla.html'; ?>
-
 
 
     <div class="container px-3 my-5 clearfix">

@@ -14,7 +14,6 @@ $nombreUsuario = $_SESSION['usuario'];
 unset($_SESSION['carrito']);
 ?>
 
-
 <!DOCTYPE html>
 <html lang="es">
 
